@@ -54,6 +54,7 @@ function Quiz({ quizArray }) {
     if (!jokerUsed) {
       if (answers[currentQuestion].length > 2) {
         let count = 0;
+        
         const jokerMap = answers[currentQuestion].map((answer, index) => {
           if (answer.isCorrect === true) {
             return answer;
@@ -62,9 +63,10 @@ function Quiz({ quizArray }) {
             return answer;
           }
         });
-        setJokerAnswers(
+     return   setJokerAnswers(
           jokerMap.filter((jokerAnswer) => jokerAnswer !== undefined)
         );
+        // eslint-disable-next-line
         setJoker(true);
         setJokerUsed(true);
         setJokerCard("jokerused");

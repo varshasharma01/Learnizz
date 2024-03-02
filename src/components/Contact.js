@@ -1,12 +1,9 @@
-// import React, { useState } from "react";
 import StarRating from "./StarRating";
 import { useSpring, animated } from "react-spring";
 
 const Contact = () => {
-  // const [status, setStatus] = useState("Submit");
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // setStatus("Sending...");
     const { name, email, message } = e.target.elements;
     let details = {
       name: name.value,
