@@ -63,3 +63,17 @@ Lukas Kreibig - [Github](https://github.com/lukaskreibig) - [LinkedIn](https://w
 Isabel Mehlmann - [Github](https://github.com/Pits111) - [LinkedIn](https://www.linkedin.com/in/isabelmehlmann/)
 
 Carmen Llamas - [Github](https://github.com/makrmeen) - [LinkedIn](https://www.linkedin.com/in/makarmeen/)
+
+
+ <!--
+                            Index.html 
+
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+  -->
