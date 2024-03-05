@@ -18,7 +18,7 @@ const teamMembers = [
     photo:
       "",
     description:
-      "Third year BCA student at Chandigarh University. DSA enthusiast, passionate about coding and learning new technologies. She is a quick learner and loves to work in a team.",
+      "Final year BCA student at Chandigarh University. DSA enthusiast, passionate about coding and learning new technologies. She is a quick learner and loves to work in a team.",
     gitHub: "",
     linkedIcon: "https://www.linkedin.com/in/varsha-sharma-41004b228/",
   },

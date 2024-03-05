@@ -4,10 +4,10 @@
     <img src="src/components/img/trivia-night-rm.png" alt="Logo">
   </a>
 
-  <h3 align="center">Trivia Night</h3>
+  <h3 align="center">Learnizz</h3>
 
   <p align="center">
- How much do you know? A Trivia Quiz built with React using Trivia API.
+ How much do you know? A Learnizz Quiz built with React using Trivia API.
     <br />
     <br />
     <a href="https://silly-hawking-1e1643.netlify.app/about">View Demo</a>

@@ -8,7 +8,7 @@ const Footer = () => {
       </div>
       <div className="row">
         <p className="col-sm">
-          WILD TRIVIAL INC | All rights reserved | Terms of Service | Privacy
+          Learnizz | All rights reserved | Terms of Service | Privacy
         </p>
       </div>
     </div>
