@@ -5,7 +5,7 @@
   </a>
 
   <h3 align="center">Learnizz</h3>
-
+</p>
   <!-- <p align="center">
  How much do you know? A Learnizz Quiz built with React using Trivia API.
     <br />
@@ -15,7 +15,7 @@
 </p>
 #f0a165
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<!-- <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -26,10 +26,10 @@
     </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
-</details>
+</details> -->
 
 <!-- ABOUT THE PROJECT -->
-
+<!-- 
 ## About The Project
 
 ![Product Name Screen Shot](src/components/img/presentation.png)
@@ -50,10 +50,10 @@ Our website features:
 - [Javascript](https://www.javascript.com/)
 - [react-spring](https://react-spring.io/)
 - [HTML](https://html.com/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) -->
 
 <!-- CONTACT -->
-
+<!-- 
 ## Contact
 
 Guillaume Cojan - [Github](https://github.com/Guillaume-Cojan) - [LinkedIn](https://www.linkedin.com/in/guillaumecojan/)
@@ -63,7 +63,7 @@ Lukas Kreibig - [Github](https://github.com/lukaskreibig) - [LinkedIn](https://w
 Isabel Mehlmann - [Github](https://github.com/Pits111) - [LinkedIn](https://www.linkedin.com/in/isabelmehlmann/)
 
 Carmen Llamas - [Github](https://github.com/makrmeen) - [LinkedIn](https://www.linkedin.com/in/makarmeen/)
-
+ -->
 
  <!--
                             Index.html 
