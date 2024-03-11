@@ -6,7 +6,7 @@
 
   <h3 align="center">Learnizz</h3>
 
-  <p align="center">
+  <!-- <p align="center">
  How much do you know? A Learnizz Quiz built with React using Trivia API.
     <br />
     <br />
@@ -76,4 +76,4 @@ Carmen Llamas - [Github](https://github.com/makrmeen) - [LinkedIn](https://www.l
 
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
-  -->
+  --> -->
